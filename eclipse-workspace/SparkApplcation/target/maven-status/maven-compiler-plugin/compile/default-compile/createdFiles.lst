@@ -1,0 +1,8 @@
+com/spark/stream/JavaNetworkWordCount.class
+com/spark/stream/JavaStatefulNetworkWordCount.class
+com/spark/sql/SparkSQLExample.class
+com/spark/core/SparkCoreExample.class
+com/spark/sql/JavaSQLDataSourceExample.class
+com/spark/core/HDFSExample.class
+com/spark/sql/JavaSparkSQLExample.class
+com/spark/sql/JavaSparkSQLExample$Person.class
