@@ -66,6 +66,8 @@ public class JavaSparkSQLExample {
 
   private static void runBasicDataFrameExample(SparkSession spark) throws AnalysisException {
     // $example on:create_df$
+	  
+	  //Read local filesystem file 
     Dataset<Row> df = spark.read().json("/home/user/Desktop/inputfiles/people.json");
 
     // Displays the content of the DataFrame to stdout
